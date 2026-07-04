@@ -47,12 +47,14 @@ How it works: Similar to the SMA, but it applies a mathematical multiplier to gi
 Role: It reacts to sudden market drops or spikes much faster than the SMA, potentially getting you into a dip-buy slightly earlier.
 
 3. **HMA (Hull Moving Average)**
-How it works: This is the most complex algorithm in the script. It attempts to eliminate the "lag" associated with moving averages while keeping the line perfectly smooth. It uses Weighted Moving Averages (WMA) combined in a specific formula: <img width="486" height="51" alt="image" src="https://github.com/user-attachments/assets/5e2dca70-b92a-4bd7-9c52-ea0855ed523a" />
+How it works: This is the most complex algorithm in the script. It attempts to eliminate the "lag" associated with moving averages while keeping the line perfectly smooth. It uses Weighted Moving Averages (WMA) combined in a specific formula: <img width="486" height="51" alt="image" src="https://github.com/user-attachments/assets/731431e8-7efb-4214-ae67-c4cb74752567" />
 
 
 
 
-<img width="1895" height="1036" alt="image" src="https://github.com/user-attachments/assets/e04167e7-c864-47bc-bfc1-8a534b4681fe" />
+
+<img width="1895" height="1036" alt="image" src="https://github.com/user-attachments/assets/9c20094f-bb8e-4402-abf1-6db982a4f6cc" />
+
 
 
 
@@ -69,7 +71,8 @@ You can run this against a single stock or execute a Batch Analysis across an en
 
 
 
-<img width="648" height="971" alt="image" src="https://github.com/user-attachments/assets/291cddfa-f270-4f6c-9798-2204c50725e8" />
+<img width="585" height="984" alt="image" src="https://github.com/user-attachments/assets/2793804d-b603-46f1-bf10-ad197f9467a3" />
+
 
 
 
