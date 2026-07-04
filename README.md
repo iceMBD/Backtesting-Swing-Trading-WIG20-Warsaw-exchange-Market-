@@ -1,0 +1,2 @@
+# Backtesting-Swing-Trading-WIG20-Warsaw-exchange-Market-
+A lightweight Backtesting Swing Trading WIG20, high-frequency backtesting engine with a Tkinter graphical interface. This tool allows users to simulate and compare "buy-the-dip" mean-reversion strategies using three distinct mathematical indicators: Simple Moving Average (SMA), Exponential Moving Average (EMA), and the Hull Moving Average (HMA).
